@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CIVQuizApp</string>
+    <string name="name">Name</string>
+    <string name="response">Response</string>
+    <string name="question1_view">On which continent is COTE D IVOIRE located ? </string>
+    <string name="question1_answer1_view">Europe</string>
+    <string name="question1_answer2_view">Africa</string>
+    <string name="question1_answer3_view">Asia</string>
+    <string name="question2_view">In which part of the continent is COTE D IVOIRE located ? </string>
+    <string name="question2_answer1_view">East</string>
+    <string name="question2_answer2_view">North</string>
+    <string name="question2_answer3_view">West</string>
+    <string name="question3_view">What is the surface area of COTE D IVOIRE ?  </string>
+    <string name="question3_answer1_view">322 463 sqm</string>
+    <string name="question3_answer2_view">532 722 sqm</string>
+    <string name="question3_answer3_view">422 322 sqm</string>
+    <string name="question4_view">What is the name of the current President of COTE D IVOIRE ? </string>
+    <string name="question4_answer1_view">Laurent Gbagbo </string>
+    <string name="question4_answer2_view">Alassane Ouattara</string>
+    <string name="question4_answer3_view">Henri Konan Bedie</string>
+    <string name="question5_view">What raw material(s) is COTE D IVOIRE the world s leading exporter ? </string>
+    <string name="question5_answer1_view">Cocoa </string>
+    <string name="question5_answer2_view">Cashew </string>
+    <string name="question5_answer3_view">Coffee</string>
+    <string name="question6_view">Name the most popular meal in COTE D IVOIRE:_ </string>
+    <string name="submitAnswers">Submit Answers</string>
+    <string name="correct_answers">Great Job!</string>
+    <string name="incorrect_answers">Keep Learning, Cheers!</string>
+    <string name="missing_answers">Missing Answers</string>
+    <string name="Total_Score">Total Score:</string>
+    <string name="Thank_you">Thank you!</string>
+    <string name="Score">Score </string>
+    <string name="Attiéké">Attiéké</string>
+
+</resources>
